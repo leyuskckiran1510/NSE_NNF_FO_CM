@@ -31,7 +31,7 @@ The communication between systems is facilitated by a structured message header.
 
 To integrate this Python implementation into your project, follow these steps:
 
-1. Install the package: `pip install nnf-protocol-python`
+1. Install the package: `git clone https://github.com/leyuskckiran1510/NSE_NNF_FO_CM`
 2. Import the library into your Python script.
 3. Use the provided functions to build and parse messages according to the NNF protocol.
 
