@@ -1,4 +1,7 @@
 # Protocol For Non-NEAT Front End (NNF) - Python Implementation
+### it has not been updated for more than 8months so please let me know what can be done,
+### I am avilable for minor changes/bug fixes but anything bigger I wont be able to give time for it
+### you can hire me at freelancing platform to continue my work on it for you personally 😉
 
 Welcome to the Python implementation of the "Protocol For Non-NEAT Front End (NNF)" as described in the provided guidelines for programmers. This project aims to provide a Python library for working with the specified protocol, facilitating seamless communication between systems.
 
